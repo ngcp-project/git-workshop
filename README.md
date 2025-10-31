@@ -7,4 +7,7 @@ This is attempting to test commit closing github issue
 Trying to close issue #133 - Tanya attempt 2
 
 Closes ngcp-project/progress-board-tracker#131
-Jayden 
+Jayden
+
+Closes ngcp-project/progress-board-tracker#132
+Paul
